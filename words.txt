@@ -1,0 +1,6 @@
+store
+maps
+sdvv
+uds
+xdcvsdv
+/root/Downloads/chromedriver_linux64
