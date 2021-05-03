@@ -10,6 +10,7 @@ Download Chrome Driver using the url https://chromedriver.chromium.org/downloads
 Run python3 wast
 
 it has 8 Subtools
+
          1.Directory BruteForcing
         
          2.Subdomain Bruteforcing
