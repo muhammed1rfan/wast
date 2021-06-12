@@ -27,5 +27,5 @@ it has 8 Subtools
          
          8.Port Scanner
          
-         Normal   usage: python3 wast -u "https:www.google.com"
+         Normal   usage: python3 wast -u "https://www.google.com"
          For help  python3 wast -h
